@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navigation{
+    margin: 10px;
+    margin-top: 60px;
+    position: relative;
+    font-family: arial;
+   
+}
+.logo{
+    background-color: rgba(0, 0, 0, 0.332);
+    color: white;
+    width: 75.7%;
+    height: 300px;
+    position: absolute;
+    z-index: 40;
+    left:10px ;
+    margin-top: 79px;
+}
+.background{
+    width: 23%;
+    height: 700px;
+    background-color: rgba(100, 116, 129, 0.228);
+    position: absolute;
+    z-index: 40;
+    margin-top: 78px;
+    text-align: center;
+    color: white;
+    
+}
+.background_1{
+    background-color: rgba(228, 231, 41, 0.555);
+    width: 75.7%;
+    height: 211px;
+    position: absolute;
+    z-index: 40;
+    bottom: -441px;
+    top: 70%;
+    left: 10px;
+    color: white;
+   margin-top: -11px;
+  
+    
+}
+.background_2{
+    background-color: rgba(6, 8, 10, 0.372);
+    color: white;
+    width:23%;
+    height: 210PX;
+    position: absolute;
+    z-index: 60;
+    bottom: 60px;
+    margin-left: 1101px;
+    text-align: center;
+    
+}
+   
+  
+
