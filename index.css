@@ -57,12 +57,28 @@
   
 }
 .CODED{
-    background-color: chocolate;
+    background-color:blue;
     width:23%;
-    height: 205PX;
+    height: 215PX;
     margin-left: 1160px;
     margin-top: -170px;
-
-
+    text-align: center;
 }
-   
+ .ourcompany{
+    background-color: burlywood;
+    width:75.5% ;
+    height:500PX ;
+    margin-left: 11px;
+    float: left;
+    
+    
+ } 
+ .SECOND{
+    background-color: white;
+    width:23% ;
+    height: 500PX;
+    float: left;
+    margin-left: 3px;
+    
+    
+ } 
