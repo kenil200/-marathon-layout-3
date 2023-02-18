@@ -29,6 +29,8 @@
     text-align: center;
     color: white;
     
+    
+    
 }
 .background_1{
     background-color: rgba(228, 231, 41, 0.555);
@@ -54,20 +56,22 @@
     bottom: 60px;
     margin-left: 1160px;
     text-align: center;
+    
   
 }
 .CODED{
-    background-color:blue;
+    background-color:rgba(68, 140, 234, 0.851);
     width:23%;
     height: 215PX;
     margin-left: 1160px;
     margin-top: -170px;
     text-align: center;
 }
+   
  .ourcompany{
-    background-color: burlywood;
+    background-color: rgb(240, 237, 233);
     width:75.5% ;
-    height:500PX ;
+    height:600PX ;
     margin-left: 11px;
     float: left;
     
@@ -82,3 +86,27 @@
     
     
  } 
+ .font_1{
+    
+  
+    
+ }
+ .font_2{
+    padding: 100px;
+    margin-top: -70px;
+ }
+ .font_3{
+    padding: 100px;
+    margin-top: -180px;
+    text-align: justify;
+ }
+ 
+ .line{
+    padding: 1%;
+    background-color: chocolate;
+    width: 119%;
+    margin-right: -50px;
+    margin-top: 14px;
+    margin-left: -99px;
+}
+ }   
