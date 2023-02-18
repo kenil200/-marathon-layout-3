@@ -40,7 +40,7 @@
     top: 70%;
     left: 10px;
     color: white;
-   margin-top: -11px;
+   margin-top: 46px;
   
     
 }
@@ -48,14 +48,21 @@
     background-color: rgba(6, 8, 10, 0.372);
     color: white;
     width:23%;
-    height: 210PX;
+    height: 205PX;
     position: absolute;
     z-index: 60;
     bottom: 60px;
-    margin-left: 1101px;
+    margin-left: 1160px;
     text-align: center;
-    
+  
+}
+.CODED{
+    background-color: chocolate;
+    width:23%;
+    height: 205PX;
+    margin-left: 1160px;
+    margin-top: -170px;
+
+
 }
    
-  
-
